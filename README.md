@@ -42,5 +42,5 @@ Can be used to draw in Isometric view. Made in JavaFX
 - 2700 lines of code
 
 ## Built By
-[Shivam Rajpurohit] — Chemical Engineering Student
+Shivam Rajpurohit — Chemical Engineering Student in 
 June 2026 
