@@ -17,7 +17,7 @@ Can be used to draw in Isometric view. Made in JavaFX
 
 ![Chart](first_plot.png)
 ![Before Trim](Before_trim.png)
-![After Trim](After trim.png)
+![After Trim](After_trim.png)
 ![Tooltips](Tooltips.png)
 ![Button guide](Button_tooltip.png)
 
@@ -32,7 +32,7 @@ Can be used to draw in Isometric view. Made in JavaFX
 - Java
 - JavaFX
 - Custom trim algorithm
-- 2703 lines of code
+- 2700 lines of code
 
 ## Built By
 [Shivam Rajpurohit] — Chemical Engineering Student
