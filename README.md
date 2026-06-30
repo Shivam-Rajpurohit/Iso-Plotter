@@ -34,6 +34,7 @@ Can be used to draw in Isometric view. Made in JavaFX
 4. Enter coordinates in x,y,z format
 5. Click Plot
 6. Use the copy, delete and trim features to refine the drawing, or save and print
+7. Trim may not work for very small figures. Use for slightly large fires or undo and try again
 
 ## Built With
 - Java
