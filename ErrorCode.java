@@ -1,0 +1,15 @@
+public enum ErrorCode
+{   //Errorcodes for showing alerts
+    POINTS_NOT_ON_CIRCLE,
+    POINTS_COLLINEAR,
+    MISSING_INPUT,
+    INVALID_NUMBER,
+    INVALID_COORDINATE_FORMAT,
+    DIAMETER_ENDPOINTS,
+    NO_SHAPE_SELECTED,
+    CANNOT_TRIM,        
+    NOTHING_TO_COPY,
+    NOTHING_TO_DELETE,
+    SAVE_FAILED,
+    PRINT_FAILED
+}
