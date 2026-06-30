@@ -15,7 +15,7 @@ Can be used to draw in Isometric view. Made in JavaFX
 
 ## Screenshots
 
-![Chart](first_plot.png)
+![Chart](First_Plot.png)
 ![Before Trim](Before_trim.png)
 ![After Trim](After_trim.png)
 ![Tooltips](Tooltips.png)
